@@ -96,6 +96,7 @@
 
     <modules>
         <module>mybatis</module>
+        <module>transaction</module>
     </modules>
 
     
